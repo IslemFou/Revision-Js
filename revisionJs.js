@@ -33,6 +33,7 @@ document.querySelectorAll("p")[2].classList.add("test");
 
 //Q6 : Insertion avant le premier paragraphe
 // document.body.insertBefore(newDiv, paragraphe1);
+//ou
 // paragraphe1.parentNode.insertBefore(newDiv, paragraphe1);
 
 // Q7 : creer une fonction qui :
